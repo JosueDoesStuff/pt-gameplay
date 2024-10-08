@@ -1,0 +1,9 @@
+{ "manifestFiles" : [ "game.unx",
+"PizzaTower_GM2.data",
+"PizzaTower_GM2.html",
+"PizzaTower_GM2.js",
+"PizzaTower_GM2.wasm" ], "manifestFilesMD5" : [ "4c6ec01ae62979b85282147218f024cf",
+"9371a1eeb0180c6773c94f46f44bb5a3",
+"b944dc2077877b84532e2c124f6f02a7",
+"4b222dfc07bdf0f7399ebb55f1a356a6",
+"e78750c03d98e40864a3cf244d05b722" ], "mainJS" : "PizzaTower_GM2.js"  }
